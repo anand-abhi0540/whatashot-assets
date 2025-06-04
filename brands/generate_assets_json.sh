@@ -5,13 +5,16 @@ echo "[" > "$output_file"
 first_entry=true
 
 for brand_dir in */; do
-  brand_info=$(basename "$brand_dir")
-  brand=$(echo "$brand_info" | cut -d'-' -f1 | sed 's/_/ /g')
-  sector=$(echo "$brand_info" | cut -d'-' -f2 2>/dev/null | sed 's/_/ /g')
-  theme=$(echo "$brand_info" | cut -d'-' -f3 2>/dev/null | sed 's/_/ /g')
+  brand_folder=$(basename "$brand_dir")  # Keep as-is for constructing URL
+
+  # Human-readable fields for JSON
+  brand=$(echo "$brand_folder" | cut -d'-' -f1 | sed 's/_/ /g')
+  sector=$(echo "$brand_folder" | cut -d'-' -f2 2>/dev/null | sed 's/_/ /g')
+  theme=$(echo "$brand_folder" | cut -d'-' -f3- 2>/dev/null | sed 's/_/ /g')
 
   for service_dir in "$brand_dir"*/; do
-    service_type=$(basename "$service_dir" | sed 's/_/ /g')
+    service_folder=$(basename "$service_dir")  # Keep as-is for URL
+    service_type=$(echo "$service_folder" | sed 's/_/ /g')  # Human-readable
 
     for file_path in "$service_dir"*; do
       [ -f "$file_path" ] || continue
@@ -37,6 +40,9 @@ for brand_dir in */; do
         continue
       fi
 
+      # URL path: brands/<brand-folder>/<service-folder>/<file>
+      relative_url="brands/${brand_folder}/${service_folder}/${safe_filename}"
+
       if [ "$first_entry" = true ]; then
         first_entry=false
       else
@@ -50,7 +56,8 @@ for brand_dir in */; do
       echo "    \"service_type\": \"$service_type\"," >> "$output_file"
       echo "    \"filename\": \"$safe_filename\"," >> "$output_file"
       echo "    \"type\": \"$type\"," >> "$output_file"
-      echo "    \"alt\": \"$service_type\"" >> "$output_file"
+      echo "    \"alt\": \"$service_type\"," >> "$output_file"
+      echo "    \"url\": \"$relative_url\"" >> "$output_file"
       echo -n "  }" >> "$output_file"
     done
   done
@@ -59,4 +66,4 @@ done
 echo "" >> "$output_file"
 echo "]" >> "$output_file"
 
-echo "✅ JSON generated in $output_file"
+echo "✅ JSON with URLs generated in $output_file"
