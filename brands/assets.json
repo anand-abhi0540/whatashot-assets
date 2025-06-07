@@ -2474,16 +2474,6 @@
     "sector": "Beauty and Personal Care",
     "theme": "Organic",
     "service_type": "Videos",
-    "filename": "MP_Range_Video.mp4",
-    "type": "video",
-    "alt": "Videos",
-    "url": "brands/Mystique_Pearl-Beauty_and_Personal_Care-Organic/Videos/MP_Range_Video.mp4"
-  },
-  {
-    "brand": "Mystique Pearl",
-    "sector": "Beauty and Personal Care",
-    "theme": "Organic",
-    "service_type": "Videos",
     "filename": "MP_Rolls_Royals_Reel.mp4",
     "type": "video",
     "alt": "Videos",
@@ -2588,6 +2578,16 @@
     "type": "video",
     "alt": "Videos",
     "url": "brands/Mystique_Pearl-Beauty_and_Personal_Care-Organic/Videos/Soap_Texture_Videos.mp4"
+  },
+  {
+    "brand": "Mystique Pearl",
+    "sector": "Beauty and Personal Care",
+    "theme": "Organic",
+    "service_type": "Videos",
+    "filename": "MP_Range_Video.mp4",
+    "type": "video",
+    "alt": "Videos",
+    "url": "brands/Mystique_Pearl-Beauty_and_Personal_Care-Organic/Videos/MP_Range_Video.mp4"
   },
   {
     "brand": "Mystique Pearl",
