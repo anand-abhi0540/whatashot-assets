@@ -1210,6 +1210,50 @@
     "thumbnail": "img-thumbnails/BM_9.jpg"
   },
   {
+    "brand": "De Laaso",
+    "sector": "Footwear",
+    "theme": "",
+    "service_type": "Creative Images",
+    "filename": "Serpent_Mule.jpg",
+    "type": "image",
+    "alt": "Creative Images",
+    "url": "brands/De_Laaso-Footwear/Serpent_Mule.jpg",
+    "thumbnail": "img-thumbnails/Serpent_Mule.jpg"
+  },
+  {
+    "brand": "De Laaso",
+    "sector": "Footwear",
+    "theme": "",
+    "service_type": "Creative Images",
+    "filename": "Viper_Mule.jpg",
+    "type": "image",
+    "alt": "Creative Images",
+    "url": "brands/De_Laaso-Footwear/Viper_Mule.jpg",
+    "thumbnail": "img-thumbnails/Viper_Mule.jpg"
+  },
+  {
+    "brand": "De Laaso",
+    "sector": "Footwear",
+    "theme": "",
+    "service_type": "Creative Images",
+    "filename": "Brown_Skeleton_Mule.jpg",
+    "type": "image",
+    "alt": "Creative Images",
+    "url": "brands/De_Laaso-Footwear/Brown_Skeleton_Mule.jpg",
+    "thumbnail": "img-thumbnails/Brown_Skeleton_Mule.jpg"
+  },
+  {
+    "brand": "De Laaso",
+    "sector": "Footwear",
+    "theme": "",
+    "service_type": "Creative Images",
+    "filename": "Shoes_3.png",
+    "type": "image",
+    "alt": "Creative Images",
+    "url": "brands/De_Laaso-Footwear/Shoes_3.png",
+    "thumbnail": "img-thumbnails/Shoes_3.png"
+  },
+  {
     "brand": "Guor Guitton",
     "sector": "Beauty and Personal Care",
     "theme": "Clinical:Luxury",
