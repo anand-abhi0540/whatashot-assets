@@ -3443,6 +3443,72 @@
     "thumbnail": "thumbnails/SkinInspired_Retinol.jpg"
   },
   {
+    "brand": "Sumaiya",
+    "sector": "Beauty and Personal Care",
+    "theme": "Organic",
+    "service_type": "Videos",
+    "filename": "sumaiya_video.mp4",
+    "type": "video",
+    "alt": "Videos",
+    "url": "brands/Sumaiya-Beauty_and_Personal_Care-Organic/Videos/sumaiya_video.mp4",
+    "thumbnail": "thumbnails/sumaiya_video.jpg"
+  },
+  {
+    "brand": "Sumaiya",
+    "sector": "Beauty and Personal Care",
+    "theme": "Organic",
+    "service_type": "Creative Images",
+    "filename": "sumaiya_1.jpg",
+    "type": "image",
+    "alt": "Sumaiya Creatives",
+    "url": "brands/Sumaiya-Beauty_and_Personal_Care-Organic/Creative Images/sumaiya_1.jpg",
+    "thumbnail": "img-thumbnails/sumaiya_1.jpg"
+  },
+  {
+    "brand": "Sumaiya",
+    "sector": "Beauty and Personal Care",
+    "theme": "Organic",
+    "service_type": "Creative Images",
+    "filename": "sumaiya_2.jpg",
+    "type": "image",
+    "alt": "Sumaiya Creatives",
+    "url": "brands/Sumaiya-Beauty_and_Personal_Care-Organic/Creative Images/sumaiya_2.jpg",
+    "thumbnail": "img-thumbnails/sumaiya_2.jpg"
+  },
+  {
+    "brand": "Sumaiya",
+    "sector": "Beauty and Personal Care",
+    "theme": "Organic",
+    "service_type": "Creative Images",
+    "filename": "sumaiya_3.jpg",
+    "type": "image",
+    "alt": "Sumaiya Creatives",
+    "url": "brands/Sumaiya-Beauty_and_Personal_Care-Organic/Creative Images/sumaiya_3.jpg",
+    "thumbnail": "img-thumbnails/sumaiya_3.jpg"
+  },
+  {
+    "brand": "Sumaiya",
+    "sector": "Beauty and Personal Care",
+    "theme": "Organic",
+    "service_type": "Infographics",
+    "filename": "sumaiya_infographic.jpg",
+    "type": "image",
+    "alt": "Sumaiya Infographics",
+    "url": "brands/Sumaiya-Beauty_and_Personal_Care-Organic/Creative Images/sumaiya_infographic.png",
+    "thumbnail": "img-thumbnails/sumaiya_infographic.jpg"
+  },
+  {
+    "brand": "Sumaiya",
+    "sector": "Beauty and Personal Care",
+    "theme": "Organic",
+    "service_type": "Listing Images",
+    "filename": "sumaiya_listing.jpg",
+    "type": "image",
+    "alt": "Sumaiya Listing",
+    "url": "brands/Sumaiya-Beauty_and_Personal_Care-Organic/Creative Images/sumaiya_listing.jpg",
+    "thumbnail": "img-thumbnails/sumaiya_listing.jpg"
+  },
+  {
     "brand": "TaruTattva",
     "sector": "Incense and Fragrances",
     "theme": "",
