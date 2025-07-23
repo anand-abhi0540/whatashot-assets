@@ -1214,17 +1214,6 @@
     "sector": "Footwear",
     "theme": "",
     "service_type": "Creative Images",
-    "filename": "Serpent_Mule.jpg",
-    "type": "image",
-    "alt": "Creative Images",
-    "url": "brands/De_Laaso-Footwear/Creative Images/Serpent_Mule.jpg",
-    "thumbnail": "img-thumbnails/Serpent_Mule.jpg"
-  },
-  {
-    "brand": "De Laaso",
-    "sector": "Footwear",
-    "theme": "",
-    "service_type": "Creative Images",
     "filename": "Viper_Mule.jpg",
     "type": "image",
     "alt": "Creative Images",
@@ -1252,6 +1241,17 @@
     "alt": "Creative Images",
     "url": "brands/De_Laaso-Footwear/Creative Images/Shoes_3.png",
     "thumbnail": "img-thumbnails/Shoes_3.jpg"
+  },
+  {
+    "brand": "De Laaso",
+    "sector": "Footwear",
+    "theme": "",
+    "service_type": "Creative Images",
+    "filename": "Serpent_Mule.jpg",
+    "type": "image",
+    "alt": "Creative Images",
+    "url": "brands/De_Laaso-Footwear/Creative Images/Serpent_Mule.jpg",
+    "thumbnail": "img-thumbnails/Serpent_Mule.jpg"
   },
   {
     "brand": "De Laaso",
