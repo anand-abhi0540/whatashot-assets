@@ -1254,6 +1254,17 @@
     "thumbnail": "img-thumbnails/Shoes_3.jpg"
   },
   {
+    "brand": "De Laaso",
+    "sector": "Footwear",
+    "theme": "",
+    "service_type": "Creative Images",
+    "filename": "SHOE_4.png",
+    "type": "image",
+    "alt": "Creative Images",
+    "url": "brands/De_Laaso-Footwear/Creative Images/SHOE_4.png",
+    "thumbnail": "brands/De_Laaso-Footwear/Creative Images/SHOE_4.png"
+  },
+  {
     "brand": "Guor Guitton",
     "sector": "Beauty and Personal Care",
     "theme": "Clinical:Luxury",
