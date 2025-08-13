@@ -4001,7 +4001,7 @@
     "type": "image",
     "alt": "Infographics",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Infographics/Irish Oak.jpg",
-    "thumbnail": "img-thumbnails/Irish Oak.jpg"
+    "thumbnail": "img-thumbnails/Irish Oak(1).jpg"
   },
   {
     "brand": "Tattva Elixir",
@@ -4012,7 +4012,7 @@
     "type": "image",
     "alt": "Infographics",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Infographics/TTM 1.png",
-    "thumbnail": "img-thumbnails/TTM 1.jpg"
+    "thumbnail": "img-thumbnails/TTM 1(1).jpg"
   },
   {
     "brand": "Tattva Elixir",
@@ -4023,7 +4023,7 @@
     "type": "image",
     "alt": "Infographics",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Infographics/Dark Rush 1.png",
-    "thumbnail": "img-thumbnails/Dark Rush 1.jpg"
+    "thumbnail": "img-thumbnails/Dark Rush 1(1).jpg"
   },
   {
     "brand": "Tattva Elixir",
@@ -4034,7 +4034,7 @@
     "type": "image",
     "alt": "Infographics",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Infographics/MO 1.png",
-    "thumbnail": "img-thumbnails/MO 1.jpg"
+    "thumbnail": "img-thumbnails/MO 1(1).jpg"
   },
   {
     "brand": "Tattva Elixir",
@@ -4045,7 +4045,7 @@
     "type": "image",
     "alt": "Infographics",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Infographics/BB 1.png",
-    "thumbnail": "img-thumbnails/BB 1.jpg"
+    "thumbnail": "img-thumbnails/BB 1(1).jpg"
   },
   {
     "brand": "Tattva Elixir",
@@ -4056,7 +4056,7 @@
     "type": "image",
     "alt": "Infographics",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Infographics/Irish Oak 1.png",
-    "thumbnail": "img-thumbnails/Irish Oak 1.jpg"
+    "thumbnail": "img-thumbnails/Irish Oak 1(1).jpg"
   },
   {
     "brand": "Tattva Elixir",
@@ -4067,7 +4067,7 @@
     "type": "image",
     "alt": "Infographics",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Infographics/Breaking Bed.jpg",
-    "thumbnail": "img-thumbnails/Breaking Bed.jpg"
+    "thumbnail": "img-thumbnails/Breaking Bed(1).jpg"
   },
   {
     "brand": "Tattva Elixir",
@@ -4078,7 +4078,7 @@
     "type": "image",
     "alt": "Infographics",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Infographics/Midnight Opium.jpg",
-    "thumbnail": "img-thumbnails/Midnight Opium.jpg"
+    "thumbnail": "img-thumbnails/Midnight Opium(1).jpg"
   },
   {
     "brand": "Tattva Elixir",
@@ -4089,7 +4089,7 @@
     "type": "image",
     "alt": "Infographics",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Infographics/Gift Set Infographics Final.jpg",
-    "thumbnail": "img-thumbnails/Gift Set Infographics Final.jpg"
+    "thumbnail": "img-thumbnails/Gift Set Infographics Final(1).jpg"
   },
   {
     "brand": "Tattva Elixir",
@@ -4100,7 +4100,7 @@
     "type": "image",
     "alt": "Infographics",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Infographics/Till The Moon.jpg",
-    "thumbnail": "img-thumbnails/Till The Moon.jpg"
+    "thumbnail": "img-thumbnails/Till The Moon(1).jpg"
   },
   {
     "brand": "Tattva Elixir",
@@ -4111,16 +4111,16 @@
     "type": "image",
     "alt": "Infographics",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Infographics/Dark Rush.jpg",
-    "thumbnail": "img-thumbnails/Dark Rush.jpg"
+    "thumbnail": "img-thumbnails/Dark Rush(1).jpg"
   },
   {
     "brand": "Tattva Elixir",
     "sector": "Perfumes",
     "theme": "Clinical:Luxury",
-    "service_type": "Creative Images",
+    "service_type": "Model",
     "filename": "Irish Oak.jpg",
     "type": "image",
-    "alt": "Creative",
+    "alt": "Model",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Creative/Irish Oak.jpg",
     "thumbnail": "img-thumbnails/Irish Oak.jpg"
   },
@@ -4128,10 +4128,10 @@
     "brand": "Tattva Elixir",
     "sector": "Perfumes",
     "theme": "Clinical:Luxury",
-    "service_type": "Creative Images",
+    "service_type": "Model",
     "filename": "Gift SeT.jpg",
     "type": "image",
-    "alt": "Creative",
+    "alt": "Model",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Creative/Gift SeT.jpg",
     "thumbnail": "img-thumbnails/Gift SeT.jpg"
   },
@@ -4139,10 +4139,10 @@
     "brand": "Tattva Elixir",
     "sector": "Perfumes",
     "theme": "Clinical:Luxury",
-    "service_type": "Creative Images",
+    "service_type": "Model",
     "filename": "TTM.jpg",
     "type": "image",
-    "alt": "Creative",
+    "alt": "Model",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Creative/TTM.jpg",
     "thumbnail": "img-thumbnails/TTM.jpg"
   },
@@ -4161,10 +4161,10 @@
     "brand": "Tattva Elixir",
     "sector": "Perfumes",
     "theme": "Clinical:Luxury",
-    "service_type": "Creative Images",
+    "service_type": "Model",
     "filename": "BB.jpg",
     "type": "image",
-    "alt": "Creative",
+    "alt": "Model",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Creative/BB.jpg",
     "thumbnail": "img-thumbnails/BB.jpg"
   },
@@ -4172,10 +4172,10 @@
     "brand": "Tattva Elixir",
     "sector": "Perfumes",
     "theme": "Clinical:Luxury",
-    "service_type": "Creative Images",
+    "service_type": "Model",
     "filename": "MO.jpg",
     "type": "image",
-    "alt": "Creative",
+    "alt": "Model",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Creative/MO.jpg",
     "thumbnail": "img-thumbnails/MO.jpg"
   },
@@ -4238,10 +4238,10 @@
     "brand": "Tattva Elixir",
     "sector": "Perfumes",
     "theme": "Clinical:Luxury",
-    "service_type": "Creative Images",
+    "service_type": "Model",
     "filename": "Dark Rush.jpg",
     "type": "image",
-    "alt": "Creative",
+    "alt": "Model",
     "url": "brands/Tattva_Elixir-Perfumes-Clinical:Luxury/Creative/Dark Rush.jpg",
     "thumbnail": "img-thumbnails/Dark Rush.jpg"
   },
